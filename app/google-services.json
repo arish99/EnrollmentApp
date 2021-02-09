@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350952295649",
+    "project_id": "enrollapp-763f2",
+    "storage_bucket": "enrollapp-763f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350952295649:android:5fb13979372e9bed587ba0",
+        "android_client_info": {
+          "package_name": "com.arish1999.enrollapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350952295649-qntuhbptbstfj5c3eukbdg8dppq0qg0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKhzoNR3rI7Lu54cd-kdDDqMx1DpLox8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350952295649-qntuhbptbstfj5c3eukbdg8dppq0qg0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
